@@ -30,13 +30,13 @@ def logo():
 /033[1;32m.  ▄█ █ █▄█ █░▀░█ █▀█ (EDITOR(🕶️)
       YP  YP  YP YP   YP 88   YD Y888888P    {green}(AHMED){white}  """)                                                                                  
     print(50*'-')
-    print(f" {white}{green}[~]{white} Owner        : AHMED SHAR (ðŸ˜Ž")
+    print(f" {white}{green}[~]{white} Owner     : AHMED SHAR (ðŸ˜Ž")
     print(f" {white}{green}[~]{white} Facebook  : prince king hu yawr")
-    print(f" {white}{green}[~]{white} Tool.          :  FILE + RANDOM CLONE")
-    print(f" {white}{green}[~]{white} website     : https:// DADAKI**)
+    print(f" {white}{green}[~]{white} Tool.     :  FILE + RANDOM CLONE")
+    print(f" {white}{green}[~]{white} website   :  DADAK
     print(f" {white}{green}[~]{white} Whatsapp : 03277025198 ONLY for help ")
-    print(f" {white}{green}[~]{white} Status       : {green}Free ")
-    print(f" {white}{green}[~]{white} Version     : 1.5 ")
+    print(f" {white}{green}[~]{white} Status   : {green}Free ")
+    print(f" {white}{green}[~]{white} Version  : 1.5 ")
     print(50*'-')
 #_________[ USER-AGENT LIST GENERATER ]______>>>
 for i in range(2000):
