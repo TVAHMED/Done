@@ -33,9 +33,8 @@ def logo():
     print(f" {white}{green}[~]{white} Owner     : AHMED SHAR (ðŸ˜Ž")
     print(f" {white}{green}[~]{white} Facebook  : prince king hu yawr")
     print(f" {white}{green}[~]{white} Tool.     :  FILE + RANDOM CLONE")
-    print(f" {white){green}[~]{white} Status   : { {white}{green}[~]{white} Version  : 1.5 ")
     print(*'-')
-#_________[ USER-AGENT LIST GENERATER ]______>>>
+#______-AGENT LIST GENERATER ]______>>>
 for i in range(2000):
     fbs = random.choice([
         'com.facebook.adsmanager',
