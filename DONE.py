@@ -56,7 +56,7 @@ def infinty():
     logo()
     os.system('xdg-open :/https://youtube.https://youtube.com/ahmedshr64/')
     print(f'{rad}SUBSCRIBE our channel {white} ')
-    print(50*  print(f'{white}{green} [1]{white} Random Clone')
+    print(f'{white}{green} [1]{white} Random Clone')
     print(f'{white}{green} [2]{white} File Clone')
     print(f'{white}{green} [0]{white} Close Project')
     print(50*"-")
