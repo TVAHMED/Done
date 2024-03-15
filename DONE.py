@@ -25,12 +25,11 @@ green = '\033[1;32m'
 def logo():
     os.system("clear")
     print(f"""{white}
-
-/033[1;32m  █▀ █ █▀▀ █▀▄▀█ ▄▀█
-/033[1;32m  ▄█ █ █▄█ █░▀░█ █▀█ (EDITOR(🕶️)
-      YP  YP  YP YP   YP 88   YD Y888888P    {green}(AHMED){white}  """)                                                                                  
+👿█▀ █ █▀▀ █▀▄▀█ ▄▀█
+👿▄█ █ █▄█ █░▀░█ █▀█ (EDITOR(🕶️)
+        {green}(AHMED){white}  """)                                                         
     print(50*'-')
-    print(f" {white}{green}[~]{white} Owner     : AHMED SHAR (ðŸ˜Ž")
+    print(f" {white}{green}[~]{white} Owner     : AHED SHAR (ðŸ˜Ž")
     print(f" {white}{green}[~]{white} Facebook  : prince king hu yawr")
     print(f" {white}{green}[~]{white} Tool.     :  FILE + RANDOM CLONE")
     print(*'-')
