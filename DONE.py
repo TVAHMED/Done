@@ -24,17 +24,16 @@ green = '\033[1;32m'
 #_________[ LOGO ]______>>>
 def logo():
     os.system("clear")
-    print(f"""{white}
-👿█▀ █ █▀▀ █▀▄▀█ ▄▀█
-👿▄█ █ █▄█ █░▀░█ █▀█ (EDITOR(🕶️)
+    print(f"""{blue}
+👿█▀ █ █▀▀ █▀▄▀█ ▄▀█🙂
+👿▄█ █ █▄█ █░▀░█ █▀█🙂(EDITOR(🕶️)
         {green}(AHMED){white}  """)                                                         
     print(50*'-')
     print(f" {white}{green}[~]{white} Owner     : AHED SHAR (ðŸ˜Ž")
     print(f" {white}{green}[~]{white} Facebook  : prince king hu yawr")
     print(f" {white}{green}[~]{white} Tool.     :  FILE + RANDOM CLONE")
-    print(*'-')
 #______-AGENT LIST GENERATER ]______>>>
-for i in range(2000):
+for i in range(20000):
     fbs = random.choice([
         'com.facebook.adsmanager',
         'com.facebook.lite',
