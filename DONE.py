@@ -276,5 +276,5 @@ def bapif(uidY,pwx,total):
         cracked.append(uid)
     except requests.exceptions.ConnectionError:time.sleep(10)
     except Exception as e:print(e)
-if __name__=="__main__"
+if __name__=="__main__":
      #bapif("100034118766868|bilal haider id",["4292416"],"2222")
