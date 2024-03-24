@@ -24,9 +24,9 @@ green = '\033[1;32m'
 #_________[ LOGO ]______>>>
 def logo():
     os.system("clear")
-    print(f"""{blue}
+    print(f"""{green}
 👿█▀ █ █▀▀ █▀▄▀█ ▄▀█🙂
-👿▄█ █ █▄█ █░▀░█ █▀█🙂(EDITOR(🕶️)
+👿▄█ █ █▄█ █░▀░█ █▀█🙂(EDITOR🕶️)
         {green}(AHMED){white}  """)                                                         
     print(50*'-')
     print(f" {white}{green}[~]{white} Owner     : AHED SHAR (ðŸ˜Ž")
@@ -49,8 +49,7 @@ for i in range(20000):
         ualist.append(f'Dalvik/2.1.0 (Linux; U; Android {str(android_version)}.0.0; {str(xzx[3])} Build/{str(xzx[2])} [FBAN/FB4A;FBAV/{str(application_version)};FBBV/{str(application_version_code)};FBDM/'+'{density='+dens+'.0,width=720,height=1280};'+f'FBLC/en_US;FBRV/{str(application_version_code)};FBMF/{str(xzx[0])};FBBD/{str(xzx[0])};FBPN/{str(fbs)};FBDV/{str(xzx[3])};FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]')
     except IndexError:
         pass
-#______[MAIN MENU]__________>>
-def infinty():
+#______[MAIN M
     logo()
     os.system('xdg-open :/https://youtube.https://youtube.com/ahmedshr64/')
     print(f'{rad}SUBSCRIBE our channel {white} ')
@@ -277,6 +276,5 @@ def bapif(uidY,pwx,total):
         cracked.append(uid)
     except requests.exceptions.ConnectionError:time.sleep(10)
     except Exception as e:print(e)
-if __name__=="__main__":
-     infinty()
+if __name__=="__main__"
      #bapif("100034118766868|bilal haider id",["4292416"],"2222")
