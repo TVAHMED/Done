@@ -59,9 +59,9 @@ for i in range(20000):
     print(50*"-")
     EvilX = input(f'{white} [{rad}?{white}] Select Code : {green}')
     if EvilX in ['1','01']:
-        random_number()
+       random_number()
     elif EvilX in ['2','02']:
-        file_crack()
+       file_crack()
     elif EvilX in ['0','00']:
         exit()
     else:
